@@ -1,1 +1,1 @@
-console.log("hello Mohammed");
+console.log("salam");
